@@ -39,7 +39,7 @@
     "@types/node": "12.6.8",
     "ethers": "^4.0.40",
     "ts-node": "8.3.0",
-    "typescript": "3.5.3"
+    "typescript": "3.9.10"
   },
   "devDependencies": {
     "@graphprotocol/graph-cli": "^0.18.0",
